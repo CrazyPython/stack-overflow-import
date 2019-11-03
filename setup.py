@@ -34,5 +34,5 @@ setup(
     ],
     keywords='stackoverflow development boilerplate',
     packages=["stackoverflow"],
-    install_requires=['requests'],
+    install_requires=['requests', "beautifulsoup4"],
 )
